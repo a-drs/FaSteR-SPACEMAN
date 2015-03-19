@@ -8,7 +8,7 @@ The following files were worked on in kernel space
 4) fs/xfs/xfs_fs.h
 
 
-The following file were worked on in user space
+The following files were worked on in user space
 1) include/xfs_fs.h
 2) spaceman/freesp.c
 
