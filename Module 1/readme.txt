@@ -9,7 +9,7 @@ The following files were worked on in kernel space
 
 
 The following file were worked on in user space
-1) include/xfs_fs.h (Som the contents are same as the prev one)
+1) include/xfs_fs.h
 2) spaceman/freesp.c
 
 
